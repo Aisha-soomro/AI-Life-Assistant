@@ -1,25 +1,26 @@
-# AI Life Assistant
+# 🤖 AI Life Assistant
 
-A React + Vite + TypeScript project styled with Tailwind CSS v4.
+An AI-powered productivity, health, and lifestyle assistant built with React, TypeScript, Vite, Tailwind CSS, and Gemini AI.
 
-## Getting started
+## ✨ Features
 
-```bash
-npm install
-npm run dev
-```
+- 🤖 AI Chat Assistant
+- ✅ Task Manager
+- 📅 Calendar
+- 💧 Water Tracker
+- 💊 Medicine Reminders
+- 📚 Study Planner
+- 📊 Analytics Dashboard
+- 🔔 Smart Notifications
 
-The dev server runs at http://localhost:5173 by default.
+## 🛠️ Tech Stack
 
-## Scripts
+React • TypeScript • Vite • Tailwind CSS • Gemini AI
 
-- `npm run dev` — start the development server
-- `npm run build` — type-check and build for production
-- `npm run preview` — preview the production build locally
+## 🚀 Status
 
-## Stack
+Currently under active development.
 
-- [React 19](https://react.dev/)
-- [Vite 7](https://vite.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Tailwind CSS v4](https://tailwindcss.com/) via `@tailwindcss/vite`
+## 📄 License
+
+MIT License
